@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sudoDeVinci/devinci.cloud-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sudoDeVinci/devinci.cloud-backend
