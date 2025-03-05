@@ -1,0 +1,313 @@
+2025-03-05 03:19:04,063 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:19:04,064 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:20:19,829 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:20:19,829 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:21:05,054 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:21:05,054 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:23:04,462 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:23:04,462 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:23:04,629 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 03:23:04,629 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 03:23:04,630 - INFO -  * Restarting with stat
+2025-03-05 03:23:04,788 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:23:04,788 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:23:04,956 - WARNING -  * Debugger is active!
+2025-03-05 03:23:04,962 - INFO -  * Debugger PIN: 143-772-640
+2025-03-05 03:23:11,754 - INFO - 127.0.0.1 - - [05/Mar/2025 03:23:11] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-05 03:23:12,020 - INFO - 127.0.0.1 - - [05/Mar/2025 03:23:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-05 03:24:12,696 - INFO -  * Detected change in '/home/devinci/Desktop/devincicloud-monolith/backend/server/routes.py', reloading
+2025-03-05 03:24:12,782 - INFO -  * Restarting with stat
+2025-03-05 03:24:12,944 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:24:12,944 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:24:13,126 - WARNING -  * Debugger is active!
+2025-03-05 03:24:13,128 - INFO -  * Debugger PIN: 143-772-640
+2025-03-05 03:26:42,774 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:26:42,774 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:26:42,933 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 03:26:42,933 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 03:26:42,934 - INFO -  * Restarting with stat
+2025-03-05 03:26:43,094 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:26:43,095 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:26:43,251 - WARNING -  * Debugger is active!
+2025-03-05 03:26:43,253 - INFO -  * Debugger PIN: 143-772-640
+2025-03-05 03:26:47,111 - INFO - 127.0.0.1 - - [05/Mar/2025 03:26:47] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-05 03:26:51,204 - INFO - 127.0.0.1 - - [05/Mar/2025 03:26:51] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-05 03:26:51,882 - INFO - 127.0.0.1 - - [05/Mar/2025 03:26:51] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-05 03:26:52,404 - INFO - 127.0.0.1 - - [05/Mar/2025 03:26:52] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-05 03:27:13,939 - INFO -  * Detected change in '/home/devinci/Desktop/devincicloud-monolith/backend/server/routes.py', reloading
+2025-03-05 03:27:14,021 - INFO -  * Restarting with stat
+2025-03-05 03:27:14,191 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:27:14,191 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:27:14,367 - WARNING -  * Debugger is active!
+2025-03-05 03:27:14,370 - INFO -  * Debugger PIN: 143-772-640
+2025-03-05 03:27:37,896 - INFO -  * Detected change in '/home/devinci/Desktop/devincicloud-monolith/backend/server/routes.py', reloading
+2025-03-05 03:27:37,979 - INFO -  * Restarting with stat
+2025-03-05 03:27:38,140 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:27:38,140 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:27:38,305 - WARNING -  * Debugger is active!
+2025-03-05 03:27:38,307 - INFO -  * Debugger PIN: 143-772-640
+2025-03-05 03:27:40,810 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:40] "GET / HTTP/1.1" 200 -
+2025-03-05 03:27:40,910 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:40] "GET /assets/index-CAPiUk66.js HTTP/1.1" 200 -
+2025-03-05 03:27:40,911 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:40] "GET /assets/index-9qnAmI2y.css HTTP/1.1" 200 -
+2025-03-05 03:27:40,970 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:40] "GET /images/bg.png HTTP/1.1" 200 -
+2025-03-05 03:27:41,094 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "[35m[1mGET /audio/boomer.wav HTTP/1.1[0m" 206 -
+2025-03-05 03:27:41,094 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "GET /images/clippy.gif HTTP/1.1" 200 -
+2025-03-05 03:27:41,097 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "GET /icons/win_controls/console.png HTTP/1.1" 200 -
+2025-03-05 03:27:41,099 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "GET /icons/win_controls/music.png HTTP/1.1" 200 -
+2025-03-05 03:27:41,099 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "GET /icons/bonzi.ico HTTP/1.1" 200 -
+2025-03-05 03:27:41,374 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "GET /welcome HTTP/1.1" 200 -
+2025-03-05 03:27:41,377 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "GET /projects HTTP/1.1" 200 -
+2025-03-05 03:27:41,522 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "GET /icons/win_controls/directory_open.png HTTP/1.1" 200 -
+2025-03-05 03:27:41,523 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "GET /icons/win_controls/support.png HTTP/1.1" 200 -
+2025-03-05 03:27:41,665 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "GET /css/welcome.css HTTP/1.1" 200 -
+2025-03-05 03:27:41,690 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:27:41,716 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "GET /css/projects.css HTTP/1.1" 200 -
+2025-03-05 03:27:41,770 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "GET /css/utility.css HTTP/1.1" 200 -
+2025-03-05 03:27:41,783 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "[33mGET /ms_sans_serif.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:27:41,784 - INFO - 127.0.0.1 - - [05/Mar/2025 03:27:41] "[33mGET /ms_sans_serif_bold.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:28:26,485 - INFO - 127.0.0.1 - - [05/Mar/2025 03:28:26] "GET /projects HTTP/1.1" 200 -
+2025-03-05 03:28:26,765 - INFO - 127.0.0.1 - - [05/Mar/2025 03:28:26] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:28:26,777 - INFO - 127.0.0.1 - - [05/Mar/2025 03:28:26] "[36mGET /css/projects.css HTTP/1.1[0m" 304 -
+2025-03-05 03:29:27,223 - INFO -  * Detected change in '/home/devinci/Desktop/devincicloud-monolith/backend/server/routes.py', reloading
+2025-03-05 03:29:27,305 - INFO -  * Restarting with stat
+2025-03-05 03:29:27,481 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:29:27,481 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:29:27,647 - WARNING -  * Debugger is active!
+2025-03-05 03:29:27,649 - INFO -  * Debugger PIN: 143-772-640
+2025-03-05 03:29:40,032 - INFO -  * Detected change in '/home/devinci/Desktop/devincicloud-monolith/backend/server/routes.py', reloading
+2025-03-05 03:29:40,115 - INFO -  * Restarting with stat
+2025-03-05 03:29:40,286 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:29:40,287 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:29:40,462 - WARNING -  * Debugger is active!
+2025-03-05 03:29:40,464 - INFO -  * Debugger PIN: 143-772-640
+2025-03-05 03:29:43,558 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "[36mGET / HTTP/1.1[0m" 304 -
+2025-03-05 03:29:43,634 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "[36mGET /assets/index-CAPiUk66.js HTTP/1.1[0m" 304 -
+2025-03-05 03:29:43,635 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "[36mGET /assets/index-9qnAmI2y.css HTTP/1.1[0m" 304 -
+2025-03-05 03:29:43,691 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "[36mGET /images/clippy.gif HTTP/1.1[0m" 304 -
+2025-03-05 03:29:43,694 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "[36mGET /icons/win_controls/console.png HTTP/1.1[0m" 304 -
+2025-03-05 03:29:43,696 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "[36mGET /icons/win_controls/music.png HTTP/1.1[0m" 304 -
+2025-03-05 03:29:43,700 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "[36mGET /icons/bonzi.ico HTTP/1.1[0m" 304 -
+2025-03-05 03:29:43,700 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "[36mGET /images/bg.png HTTP/1.1[0m" 304 -
+2025-03-05 03:29:43,704 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "[35m[1mGET /audio/boomer.wav HTTP/1.1[0m" 206 -
+2025-03-05 03:29:43,790 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "GET /welcome HTTP/1.1" 200 -
+2025-03-05 03:29:43,795 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "GET /projects HTTP/1.1" 200 -
+2025-03-05 03:29:43,948 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "[36mGET /icons/win_controls/directory_open.png HTTP/1.1[0m" 304 -
+2025-03-05 03:29:43,949 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:43] "[36mGET /icons/win_controls/support.png HTTP/1.1[0m" 304 -
+2025-03-05 03:29:44,072 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:44] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:29:44,130 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:44] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:29:44,158 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:44] "[36mGET /css/projects.css HTTP/1.1[0m" 304 -
+2025-03-05 03:29:44,206 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:44] "[36mGET /css/utility.css HTTP/1.1[0m" 304 -
+2025-03-05 03:29:44,231 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:44] "[33mGET /ms_sans_serif.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:29:44,235 - INFO - 127.0.0.1 - - [05/Mar/2025 03:29:44] "[33mGET /ms_sans_serif_bold.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:30:53,607 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:30:53,607 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:30:53,772 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 03:30:53,772 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 03:30:53,773 - INFO -  * Restarting with stat
+2025-03-05 03:30:53,934 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:30:53,935 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:30:54,096 - WARNING -  * Debugger is active!
+2025-03-05 03:30:54,098 - INFO -  * Debugger PIN: 143-772-640
+2025-03-05 03:30:55,675 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:55] "GET / HTTP/1.1" 200 -
+2025-03-05 03:30:55,757 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:55] "GET /assets/index-CAPiUk66.js HTTP/1.1" 200 -
+2025-03-05 03:30:55,765 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:55] "GET /assets/index-9qnAmI2y.css HTTP/1.1" 200 -
+2025-03-05 03:30:55,849 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:55] "GET /images/clippy.gif HTTP/1.1" 200 -
+2025-03-05 03:30:55,850 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:55] "GET /icons/win_controls/console.png HTTP/1.1" 200 -
+2025-03-05 03:30:55,851 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:55] "GET /icons/win_controls/music.png HTTP/1.1" 200 -
+2025-03-05 03:30:55,854 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:55] "GET /icons/bonzi.ico HTTP/1.1" 200 -
+2025-03-05 03:30:55,855 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:55] "GET /images/bg.png HTTP/1.1" 200 -
+2025-03-05 03:30:55,856 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:55] "[35m[1mGET /audio/boomer.wav HTTP/1.1[0m" 206 -
+2025-03-05 03:30:55,972 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:55] "GET /welcome HTTP/1.1" 200 -
+2025-03-05 03:30:55,977 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:55] "GET /projects HTTP/1.1" 200 -
+2025-03-05 03:30:56,202 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:56] "GET /icons/win_controls/directory_open.png HTTP/1.1" 200 -
+2025-03-05 03:30:56,202 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:56] "GET /icons/win_controls/support.png HTTP/1.1" 200 -
+2025-03-05 03:30:56,320 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:56] "GET /css/welcome.css HTTP/1.1" 200 -
+2025-03-05 03:30:56,354 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:56] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:30:56,374 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:56] "GET /css/projects.css HTTP/1.1" 200 -
+2025-03-05 03:30:56,445 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:56] "GET /css/utility.css HTTP/1.1" 200 -
+2025-03-05 03:30:56,462 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:56] "[33mGET /ms_sans_serif.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:30:56,463 - INFO - 127.0.0.1 - - [05/Mar/2025 03:30:56] "[33mGET /ms_sans_serif_bold.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:31:30,060 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:31:30,061 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:31:30,223 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 03:31:30,223 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 03:31:30,224 - INFO -  * Restarting with stat
+2025-03-05 03:31:30,392 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:31:30,393 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:31:30,578 - WARNING -  * Debugger is active!
+2025-03-05 03:31:30,580 - INFO -  * Debugger PIN: 143-772-640
+2025-03-05 03:31:31,803 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:31] "GET / HTTP/1.1" 200 -
+2025-03-05 03:31:31,888 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:31] "GET /assets/index-CAPiUk66.js HTTP/1.1" 200 -
+2025-03-05 03:31:31,890 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:31] "GET /assets/index-9qnAmI2y.css HTTP/1.1" 200 -
+2025-03-05 03:31:31,941 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:31] "GET /icons/win_controls/console.png HTTP/1.1" 200 -
+2025-03-05 03:31:31,942 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:31] "GET /images/clippy.gif HTTP/1.1" 200 -
+2025-03-05 03:31:31,945 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:31] "GET /icons/bonzi.ico HTTP/1.1" 200 -
+2025-03-05 03:31:31,948 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:31] "GET /icons/win_controls/music.png HTTP/1.1" 200 -
+2025-03-05 03:31:31,949 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:31] "GET /images/bg.png HTTP/1.1" 200 -
+2025-03-05 03:31:31,953 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:31] "[35m[1mGET /audio/boomer.wav HTTP/1.1[0m" 206 -
+2025-03-05 03:31:32,095 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:32] "GET /welcome HTTP/1.1" 200 -
+2025-03-05 03:31:32,103 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:32] "GET /projects HTTP/1.1" 200 -
+2025-03-05 03:31:32,353 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:32] "GET /icons/win_controls/directory_open.png HTTP/1.1" 200 -
+2025-03-05 03:31:32,353 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:32] "GET /icons/win_controls/support.png HTTP/1.1" 200 -
+2025-03-05 03:31:32,484 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:32] "GET /css/welcome.css HTTP/1.1" 200 -
+2025-03-05 03:31:32,536 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:32] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:31:32,552 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:32] "GET /css/projects.css HTTP/1.1" 200 -
+2025-03-05 03:31:32,602 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:32] "GET /css/utility.css HTTP/1.1" 200 -
+2025-03-05 03:31:32,624 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:32] "[33mGET /ms_sans_serif.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:31:32,626 - INFO - 127.0.0.1 - - [05/Mar/2025 03:31:32] "[33mGET /ms_sans_serif_bold.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:32:20,828 - INFO -  * Detected change in '/home/devinci/Desktop/devincicloud-monolith/backend/server/gh/repositories.py', reloading
+2025-03-05 03:32:20,911 - INFO -  * Restarting with stat
+2025-03-05 03:32:21,080 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:32:21,081 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:32:21,245 - WARNING -  * Debugger is active!
+2025-03-05 03:32:21,246 - INFO -  * Debugger PIN: 143-772-640
+2025-03-05 03:32:25,993 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:25] "[36mGET / HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,072 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /assets/index-CAPiUk66.js HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,075 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /assets/index-9qnAmI2y.css HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,132 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /images/clippy.gif HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,133 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /icons/win_controls/music.png HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,135 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /icons/bonzi.ico HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,137 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /icons/win_controls/console.png HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,138 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /images/bg.png HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,144 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[35m[1mGET /audio/boomer.wav HTTP/1.1[0m" 206 -
+2025-03-05 03:32:26,269 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "GET /welcome HTTP/1.1" 200 -
+2025-03-05 03:32:26,273 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "GET /projects HTTP/1.1" 200 -
+2025-03-05 03:32:26,428 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /icons/win_controls/directory_open.png HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,429 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /icons/win_controls/support.png HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,550 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,592 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,610 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /css/projects.css HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,667 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[36mGET /css/utility.css HTTP/1.1[0m" 304 -
+2025-03-05 03:32:26,685 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[33mGET /ms_sans_serif.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:32:26,690 - INFO - 127.0.0.1 - - [05/Mar/2025 03:32:26] "[33mGET /ms_sans_serif_bold.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:33:24,437 - INFO -  * Detected change in '/home/devinci/Desktop/devincicloud-monolith/backend/server/routes.py', reloading
+2025-03-05 03:33:24,518 - INFO -  * Restarting with stat
+2025-03-05 03:33:24,682 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:33:24,682 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:33:24,849 - WARNING -  * Debugger is active!
+2025-03-05 03:33:24,851 - INFO -  * Debugger PIN: 143-772-640
+2025-03-05 03:33:36,153 - INFO -  * Detected change in '/home/devinci/Desktop/devincicloud-monolith/main.py', reloading
+2025-03-05 03:33:36,251 - INFO -  * Restarting with stat
+2025-03-05 03:33:36,439 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:33:36,439 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:33:56,812 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:33:56,813 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:33:56,996 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 03:33:56,996 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 03:33:58,930 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:58] "[36mGET / HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,017 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /assets/index-CAPiUk66.js HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,023 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /assets/index-9qnAmI2y.css HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,070 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /images/clippy.gif HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,073 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /icons/win_controls/console.png HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,084 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /icons/win_controls/music.png HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,084 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /icons/bonzi.ico HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,085 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /images/bg.png HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,122 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[35m[1mGET /audio/boomer.wav HTTP/1.1[0m" 206 -
+2025-03-05 03:33:59,201 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "GET /welcome HTTP/1.1" 200 -
+2025-03-05 03:33:59,205 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "GET /projects HTTP/1.1" 200 -
+2025-03-05 03:33:59,358 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /icons/win_controls/directory_open.png HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,359 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /icons/win_controls/support.png HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,466 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,510 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,531 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /css/projects.css HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,583 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[36mGET /css/utility.css HTTP/1.1[0m" 304 -
+2025-03-05 03:33:59,601 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[33mGET /ms_sans_serif.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:33:59,603 - INFO - 127.0.0.1 - - [05/Mar/2025 03:33:59] "[33mGET /ms_sans_serif_bold.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:34:50,900 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:50] "[36mGET / HTTP/1.1[0m" 304 -
+2025-03-05 03:34:50,986 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:50] "[36mGET /assets/index-CAPiUk66.js HTTP/1.1[0m" 304 -
+2025-03-05 03:34:50,991 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:50] "[36mGET /assets/index-9qnAmI2y.css HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,039 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[36mGET /images/clippy.gif HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,042 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[36mGET /icons/win_controls/console.png HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,044 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[36mGET /icons/win_controls/music.png HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,049 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[36mGET /images/bg.png HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,050 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[36mGET /icons/bonzi.ico HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,072 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[35m[1mGET /audio/boomer.wav HTTP/1.1[0m" 206 -
+2025-03-05 03:34:51,177 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "GET /welcome HTTP/1.1" 200 -
+2025-03-05 03:34:51,180 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "GET /projects HTTP/1.1" 200 -
+2025-03-05 03:34:51,340 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[36mGET /icons/win_controls/directory_open.png HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,340 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[36mGET /icons/win_controls/support.png HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,449 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,499 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,533 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[36mGET /css/projects.css HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,576 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[36mGET /css/utility.css HTTP/1.1[0m" 304 -
+2025-03-05 03:34:51,596 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[33mGET /ms_sans_serif.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:34:51,598 - INFO - 127.0.0.1 - - [05/Mar/2025 03:34:51] "[33mGET /ms_sans_serif_bold.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:35:31,252 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:35:31,252 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:35:31,408 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 03:35:31,408 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 03:35:34,424 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET / HTTP/1.1" 200 -
+2025-03-05 03:35:34,496 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /assets/index-CAPiUk66.js HTTP/1.1" 200 -
+2025-03-05 03:35:34,498 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /assets/index-9qnAmI2y.css HTTP/1.1" 200 -
+2025-03-05 03:35:34,547 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /images/clippy.gif HTTP/1.1" 200 -
+2025-03-05 03:35:34,550 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /icons/win_controls/console.png HTTP/1.1" 200 -
+2025-03-05 03:35:34,552 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /icons/bonzi.ico HTTP/1.1" 200 -
+2025-03-05 03:35:34,553 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /icons/win_controls/music.png HTTP/1.1" 200 -
+2025-03-05 03:35:34,557 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /images/bg.png HTTP/1.1" 200 -
+2025-03-05 03:35:34,613 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "[35m[1mGET /audio/boomer.wav HTTP/1.1[0m" 206 -
+2025-03-05 03:35:34,654 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /welcome HTTP/1.1" 200 -
+2025-03-05 03:35:34,660 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /projects HTTP/1.1" 200 -
+2025-03-05 03:35:34,879 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /icons/win_controls/directory_open.png HTTP/1.1" 200 -
+2025-03-05 03:35:34,880 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /icons/win_controls/support.png HTTP/1.1" 200 -
+2025-03-05 03:35:34,998 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:34] "GET /css/welcome.css HTTP/1.1" 200 -
+2025-03-05 03:35:35,030 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:35] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:35:35,057 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:35] "GET /css/projects.css HTTP/1.1" 200 -
+2025-03-05 03:35:35,117 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:35] "GET /css/utility.css HTTP/1.1" 200 -
+2025-03-05 03:35:35,140 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:35] "[33mGET /ms_sans_serif.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:35:35,143 - INFO - 127.0.0.1 - - [05/Mar/2025 03:35:35] "[33mGET /ms_sans_serif_bold.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:36:07,886 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:36:07,886 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:36:08,040 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 03:36:08,040 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 03:36:10,081 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET / HTTP/1.1" 200 -
+2025-03-05 03:36:10,158 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /assets/index-CAPiUk66.js HTTP/1.1" 200 -
+2025-03-05 03:36:10,160 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /assets/index-9qnAmI2y.css HTTP/1.1" 200 -
+2025-03-05 03:36:10,206 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /images/clippy.gif HTTP/1.1" 200 -
+2025-03-05 03:36:10,210 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /icons/win_controls/music.png HTTP/1.1" 200 -
+2025-03-05 03:36:10,213 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /icons/win_controls/console.png HTTP/1.1" 200 -
+2025-03-05 03:36:10,214 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /icons/bonzi.ico HTTP/1.1" 200 -
+2025-03-05 03:36:10,214 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /images/bg.png HTTP/1.1" 200 -
+2025-03-05 03:36:10,224 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "[35m[1mGET /audio/boomer.wav HTTP/1.1[0m" 206 -
+2025-03-05 03:36:10,310 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /welcome HTTP/1.1" 200 -
+2025-03-05 03:36:10,314 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /projects HTTP/1.1" 200 -
+2025-03-05 03:36:10,536 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /icons/win_controls/directory_open.png HTTP/1.1" 200 -
+2025-03-05 03:36:10,537 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /icons/win_controls/support.png HTTP/1.1" 200 -
+2025-03-05 03:36:10,681 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /css/welcome.css HTTP/1.1" 200 -
+2025-03-05 03:36:10,759 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:36:10,786 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /css/projects.css HTTP/1.1" 200 -
+2025-03-05 03:36:10,831 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "GET /css/utility.css HTTP/1.1" 200 -
+2025-03-05 03:36:10,841 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "[33mGET /ms_sans_serif.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:36:10,842 - INFO - 127.0.0.1 - - [05/Mar/2025 03:36:10] "[33mGET /ms_sans_serif_bold.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:39:08,281 - INFO - Error loading configuration: [Errno 2] No such file or directory: 'configs/config.json'
+2025-03-05 03:39:08,281 - INFO - Error connecting to the database: unable to open database file
+2025-03-05 03:39:08,435 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 03:39:08,435 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 03:39:14,985 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:14] "GET / HTTP/1.1" 200 -
+2025-03-05 03:39:15,071 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[36mGET /assets/index-9qnAmI2y.css HTTP/1.1[0m" 304 -
+2025-03-05 03:39:15,072 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[36mGET /assets/index-CAPiUk66.js HTTP/1.1[0m" 304 -
+2025-03-05 03:39:15,122 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[36mGET /images/clippy.gif HTTP/1.1[0m" 304 -
+2025-03-05 03:39:15,124 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[36mGET /icons/win_controls/console.png HTTP/1.1[0m" 304 -
+2025-03-05 03:39:15,128 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[36mGET /icons/bonzi.ico HTTP/1.1[0m" 304 -
+2025-03-05 03:39:15,129 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[36mGET /icons/win_controls/music.png HTTP/1.1[0m" 304 -
+2025-03-05 03:39:15,130 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[36mGET /images/bg.png HTTP/1.1[0m" 304 -
+2025-03-05 03:39:15,140 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[35m[1mGET /audio/boomer.wav HTTP/1.1[0m" 206 -
+2025-03-05 03:39:15,283 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "GET /welcome HTTP/1.1" 200 -
+2025-03-05 03:39:15,430 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[36mGET /icons/win_controls/directory_open.png HTTP/1.1[0m" 304 -
+2025-03-05 03:39:15,431 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[36mGET /icons/win_controls/support.png HTTP/1.1[0m" 304 -
+2025-03-05 03:39:15,544 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:39:15,664 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[36mGET /css/utility.css HTTP/1.1[0m" 304 -
+2025-03-05 03:39:15,698 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[33mGET /ms_sans_serif.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:39:15,700 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:15] "[33mGET /ms_sans_serif_bold.woff2 HTTP/1.1[0m" 404 -
+2025-03-05 03:39:32,554 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:32] "GET /projects HTTP/1.1" 200 -
+2025-03-05 03:39:32,784 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:32] "GET /icons/win_controls/globe.png HTTP/1.1" 200 -
+2025-03-05 03:39:32,834 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:32] "[36mGET /css/welcome.css HTTP/1.1[0m" 304 -
+2025-03-05 03:39:32,848 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:32] "GET /css/projects.css HTTP/1.1" 200 -
+2025-03-05 03:39:45,534 - INFO - 127.0.0.1 - - [05/Mar/2025 03:39:45] "[35m[1mGET /audio/boomer.wav HTTP/1.1[0m" 206 -

@@ -1,17 +1,17 @@
 import path from 'path'
 
 export default {
-  root: './src',
+  root: './frontend/src',
   base: '/',
-  publicDir: '../static',
+  publicDir: '../../backend/static',
   build: {
-    outDir: '../dist',
+    outDir: '../../dist',
     emptyOutDir: true,
     target: 'esnext'
   },
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, 'src/css')
+      '@': path.resolve(__dirname, 'backend/static/css')
     }
   }
 }
